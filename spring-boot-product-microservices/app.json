@@ -1,0 +1,8 @@
+{
+  "name": "spring-boot-product-microservices",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
